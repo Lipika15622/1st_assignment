@@ -30,7 +30,6 @@ function minimum_value($arr)
 		return  $minimum_value;
 
 	}
-
 }
 echo "Minimum value is : " .minimum_value($arr = explode(' ', readline()));
 ?>
